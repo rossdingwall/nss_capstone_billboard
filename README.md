@@ -9,7 +9,7 @@ edit: this is still mostly the same.
 Motivation
 
 
-I wanted to pick a topic that I was familiar with, and do things that I haven’t seen before. My first data-related love was sports statistics, and we don’t really talk about music the way we talk about sports. My original idea was to look at trends in length of musician’s careers, and projecting the longevity of contemporary artists. There are some issues with that question so I’m no longer pursuing that, but I think this is an interesting way to look at popular culture through an unbiased quantitative analysis. 
+I wanted to pick a topic that I was familiar with, and do things that I haven’t seen before. My first data-related love was sports statistics, and we don’t really talk about music the way we talk about sports. I think this is an interesting way to look at popular culture through an unbiased quantitative analysis. 
 	
 Little questions that made me think about this topic:
 
@@ -17,7 +17,7 @@ Little questions that made me think about this topic:
 
 -I listen to the radio in the car, and I get sick of overplayed songs on pop and hip-hop radio. My Suzuki is a prison, and Drake is a merciless warden. Was heavy saturation as significant in previous eras?
 
--Everyone makes fun of Nickleback now, but they have a really impressive Billboard career. My half-baked theory is that the record industry just got used to pushing rock bands over the previous 20 years, and weren’t really ready for pop/hip-hop/pop country to become so popular. I’m not really going to look at genres or do any other measures of popularity, but Nickleback is an interesting case for me. 
+-Everyone makes fun of Nickleback now, but they have a really impressive Billboard career. I’m not really going to look at genres or do any other measures of popularity, but Nickleback is an interesting case for me. 
 
 -Looking at Billboard's records and achievements list, there clearly are some generational things happening. “Biggest drop from the #1 spot” is all songs from the 70s. “Most consecutive #1 hits” and “Most consecutive years with a #1 hit” are led by previous generations, but “Most Top 10 debuts” and “Most consecutive weeks on Hot 100” are dominated by 21st century artists. These are just cherry-picked observations, but there are probably some broader trends that can be identified.
 
@@ -86,3 +86,4 @@ Things I've thought about that I haven't been able to capture:
 -"country effect" (festival posters)
 	-movement of songs ("cat ear" graphs)
 - gini trend of mid-90s to early 2000s: what's going on here? 
+- main artist vs features: set operations? 
